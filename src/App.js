@@ -1,24 +1,23 @@
 import React from 'react';
 import logo from './logo.svg';
+
+//Componentes
+import Prueba_1 from  './components/Prueba_useState/Prueba_1';
+import Prueba_2 from  './components/Prueba_useState/Prueba_2';
+import Prueba_3 from  './components/Prueba_useState/Prueba_3';
+import Prueba_3_mejorado from  './components/Prueba_useState/Prueba_3_mejorado';
+
+
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Prueba_1 /> */}
+      {/* <Prueba_2 /> */}
+      <Prueba_3_mejorado />
+
     </div>
   );
 }
