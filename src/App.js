@@ -13,6 +13,7 @@ import logo from './logo.svg';
 
 //Prueba useReducer
 import Prueba_1 from './components/4_useReducer/Prueba_1';
+import Prueba_2 from './components/4_useReducer/Prueba_2';
 
 
 
@@ -21,8 +22,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Prueba_1 />
-      {/* <Prueba_2 /> */}
+      {/* <Prueba_1 /> */}
+      <Prueba_2 />
       {/* <Prueba_3_mejorado /> */}
 
     </div>
