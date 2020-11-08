@@ -12,8 +12,12 @@ import logo from './logo.svg';
 // import Prueba_1 from  './components/2_useEffect/Prueba_1';
 
 //Prueba useReducer
-import Prueba_1 from './components/4_useReducer/Prueba_1';
-import Prueba_2 from './components/4_useReducer/Prueba_2';
+// import Prueba_1 from './components/4_useReducer/Prueba_1';
+// import Prueba_2 from './components/4_useReducer/Prueba_2';
+
+//Prueba useRef
+import Prueba_1 from './components/3_useRef/Prueba_1';
+import Prueba_2 from './components/3_useRef/Prueba_2';
 
 
 
