@@ -9,7 +9,10 @@ import logo from './logo.svg';
 
 
 //Pruebas useEffect
-import Prueba_1 from  './components/2_useEffect/Prueba_1';
+// import Prueba_1 from  './components/2_useEffect/Prueba_1';
+
+//Prueba useReducer
+import Prueba_1 from './components/4_useReducer/Prueba_1';
 
 
 
